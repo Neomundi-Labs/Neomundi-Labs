@@ -4,8 +4,7 @@ Neomundi-Labs — 2026
 
 Neomundi-Labs announces an open scientific and engineering call for collaborators to join the development of the first operational internal clock for AI, derived from the thermodynamic–information Law E framework.
 
-This call targets research labs, engineers, roboticists, computational neuroscientists, and doctoral students who wish to contribute to a groundbreaking advancement in AI cognition:
-➡ a native temporal regulation layer for artificial systems.
+This call targets research labs, engineers, roboticists, computational neuroscientists, and doctoral students who wish to contribute to a groundbreaking advancement in AI cognition: : a native temporal regulation layer for artificial systems.
 
 Scientific Context
 
